@@ -1,4 +1,4 @@
-#Project in react with Axios
+# Project in react with Axios
 
 This is a sample project to make requests with axios library with react which allows making http requests to any api in a simple way.
 
